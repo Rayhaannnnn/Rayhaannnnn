@@ -94,18 +94,18 @@ Fun fact: "I debug with console.log... and I test everything twice"
 
 <div align="center">
 
-| Skill | Level |
-|:---|:---|
-| **JavaScript / TypeScript** | ████████████░░ Advanced |
-| **React.js / Next.js** | ████████████░░ Advanced |
-| **Vue.js** | ██████████░░░░ Intermediate |
-| **Laravel / PHP** | ████████████░░ Advanced |
-| **Node.js / Express** | ██████████░░░░ Intermediate |
-| **Flutter / Dart** | ██████████░░░░ Intermediate |
-| **Kotlin / Java (Android)** | █████████░░░░░ Intermediate |
-| **Python** | ████████░░░░░░ Intermediate |
-| **MySQL / PostgreSQL** | ██████████░░░░ Intermediate |
-| **QA & Testing** | ████████████░░ Advanced |
+| Skill | Proficiency |
+|:---|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Advanced](https://img.shields.io/badge/●●●●●●●●●●●●○○-Advanced-F7DF1E?style=flat-square&logoColor=black) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Advanced](https://img.shields.io/badge/●●●●●●●●●●●●○○-Advanced-61DAFB?style=flat-square&logoColor=black) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●●○○○○-Intermediate-4FC08D?style=flat-square) |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Advanced](https://img.shields.io/badge/●●●●●●●●●●●●○○-Advanced-FF2D20?style=flat-square) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●●○○○○-Intermediate-339933?style=flat-square) |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●●○○○○-Intermediate-02569B?style=flat-square) |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●○○○○○-Intermediate-7F52FF?style=flat-square) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●○○○○○○-Intermediate-3776AB?style=flat-square) |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●●○○○○-Intermediate-316192?style=flat-square) |
+| ![QA](https://img.shields.io/badge/QA%20%26%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Advanced](https://img.shields.io/badge/●●●●●●●●●●●●○○-Advanced-FF6C37?style=flat-square) |
 
 </div>
 
