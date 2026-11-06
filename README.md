@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rayhan%20Kusuma%20Dewa&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=65&rotate=-5&desc=&descAlignY=80" width="100%"/>
+<!-- Header: nama + role langsung di banner, lebih stabil -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Rayhan%20Kusuma%20Dewa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Fullstack%20Developer%20%E2%80%A2%20Mobile%20Dev%20%E2%80%A2%20QA%20Engineer&descColor=b0a4ff&descAlignY=65&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=6C63FF&background=00000000&center=true&vCenter=true&repeat=true&width=600&height=50&lines=👋+Hey+there!+I'm+Rayhan;💻+Fullstack+Web+%26+Mobile+Developer;🔍+QA+Engineer+%7C+Bug+Hunter;🚀+Turning+ideas+into+real+products;🌱+Lifelong+learner+%26+problem+solver" alt="Typing SVG" />
+<!-- Typing SVG: tanpa emoji di URL, lebih stabil -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Building+clean+%26+scalable+applications;Writing+tests+that+catch+bugs+first;Turning+ideas+into+real+products;Always+learning%2C+always+growing" alt="Typing SVG" />
 
 </div>
 
@@ -28,7 +30,7 @@
 
 ```yaml
 Name        : Rayhan Kusuma Dewa
-Location    : Indonesia 🇮🇩
+Location    : Indonesia
 Roles       : Fullstack Developer · Mobile Developer · QA Engineer
 
 Passionate about:
@@ -37,12 +39,12 @@ Passionate about:
   - Turning complex problems into simple, elegant solutions
 
 Currently:
-  - 🔭 Working on fullstack projects with React + Laravel
-  - 📱 Exploring Flutter for cross-platform mobile apps
-  - 🧪 Deepening QA automation skills
-  - ☁️  Learning Cloud & DevOps practices
+  - Working on fullstack projects with React + Laravel
+  - Exploring Flutter for cross-platform mobile apps
+  - Deepening QA automation skills
+  - Learning Cloud & DevOps practices
 
-Fun fact: "I debug with console.log... and I test everything twice 🧪"
+Fun fact: "I debug with console.log... and I test everything twice"
 ```
 
 ---
@@ -51,17 +53,38 @@ Fun fact: "I debug with console.log... and I test everything twice 🧪"
 
 <div align="center">
 
-### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind&theme=dark&perline=8" />
+**Frontend**
 
-### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python,mysql,postgres&theme=dark&perline=8" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,dart&theme=dark&perline=8" />
+**Backend & Database**
 
-### 🧰 Tools & QA
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux,figma&theme=dark&perline=8" />
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**QA & Tools**
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -71,30 +94,30 @@ Fun fact: "I debug with console.log... and I test everything twice 🧪"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rayhaannnnn&show_icons=true&bg_color=1a1a2e&border_color=6C63FF&icon_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Rayhaannnnn&show_icons=true&bg_color=1a1a2e&border_color=6C63FF&icon_color=b0a4ff&title_color=b0a4ff&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhaannnnn&layout=compact&bg_color=1a1a2e&border_color=6C63FF&title_color=6C63FF&text_color=c9d1d9&hide_border=false&langs_count=8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhaannnnn&layout=compact&bg_color=1a1a2e&border_color=6C63FF&title_color=b0a4ff&text_color=c9d1d9&hide_border=false&langs_count=8"/>
 
 </div>
 
 ---
 
-## 🧩 What I Build & Ensure
+## 🧩 What I Do
 
 <div align="center">
 
-| 🌐 **Web Apps** | 📱 **Mobile Apps** | 🔍 **QA & Testing** |
+| 🌐 Web Apps | 📱 Mobile Apps | 🔍 QA & Testing |
 |:---|:---|:---|
-| ✦ Responsive UI with React & Vue | ✦ Flutter cross-platform apps | ✦ Manual & automation testing |
-| ✦ RESTful API with Laravel/Node.js | ✦ Android native with Kotlin | ✦ API testing via Postman |
-| ✦ Full-stack integration & deployment | ✦ Dart & Java development | ✦ Bug reports & test case writing |
-| ✦ Database design & optimization | ✦ Clean UI/UX implementation | ✦ Regression & functional testing |
+| Responsive UI with React & Vue | Flutter cross-platform apps | Manual & automation testing |
+| REST API with Laravel / Node.js | Android native with Kotlin | API testing via Postman |
+| Full-stack integration & deploy | Clean UI/UX implementation | Bug reports & test case writing |
+| Database design & optimization | Dart & Java development | Regression & functional testing |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -107,21 +130,19 @@ Fun fact: "I debug with console.log... and I test everything twice 🧪"
 </a>
 &nbsp;
 <a href="mailto:rayhan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/Rayhaannnnn">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+> *"The best software is the one that works — and the best code is the one you can be proud of."*
+
 </div>
 
-<br/>
-
 <div align="center">
-
-> *"The best software is the one that works, and the best code is the one you can be proud of."*
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling&rotate=5" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
