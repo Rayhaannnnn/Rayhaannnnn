@@ -7,8 +7,8 @@
 
 <div align="center">
 
-<!-- Typing SVG: tanpa emoji di URL, lebih stabil -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=550&height=45&lines=Building+clean+%26+scalable+applications;Writing+tests+that+catch+bugs+first;Turning+ideas+into+real+products;Always+learning%2C+always+growing" alt="Typing SVG" />
+<!-- Typing SVG: lebar diperbesar + warna rainbow merah -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&pause=1000&color=FF4B4B&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Building+clean+and+scalable+applications;Writing+tests+that+catch+bugs+first;Turning+ideas+into+real+products;Always+learning,+always+growing" alt="Typing SVG" />
 
 </div>
 
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Rayhaannnnn&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=Rayhaannnnn&style=for-the-badge&color=FF4B4B&label=PROFILE+VIEWS" alt="views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Rayhaannnnn?style=for-the-badge&color=6C63FF&labelColor=1a1a2e&label=FOLLOWERS" alt="followers"/>
+<img src="https://img.shields.io/github/followers/Rayhaannnnn?style=for-the-badge&color=32CD32&labelColor=1a1a2e&label=FOLLOWERS" alt="followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-6C63FF?style=for-the-badge&labelColor=1a1a2e" alt="status"/>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-FF8C00?style=for-the-badge&labelColor=1a1a2e" alt="status"/>
 
 </div>
 
