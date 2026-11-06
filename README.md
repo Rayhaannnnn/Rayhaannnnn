@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header: nama + role langsung di banner, lebih stabil -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Rayhan%20Kusuma%20Dewa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Fullstack%20Developer%20%E2%80%A2%20Mobile%20Dev%20%E2%80%A2%20QA%20Engineer&descColor=b0a4ff&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF8C00,50:FFD700,75:00FF88,100:00BFFF&height=220&section=header&text=Rayhan%20Kusuma%20Dewa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Fullstack%20Developer%20%E2%80%A2%20Mobile%20Dev%20%E2%80%A2%20QA%20Engineer&descColor=ffffff&descAlignY=65&descSize=18" width="100%"/>
 
 </div>
 
@@ -90,22 +90,22 @@ Fun fact: "I debug with console.log... and I test everything twice"
 
 ---
 
-## 📊 Skills & Proficiency
+## 🎨 Skills & Proficiency
 
 <div align="center">
 
 | Skill | Proficiency |
 |:---|:---:|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![Advanced](https://img.shields.io/badge/●●●●●●●●●●●●○○-Advanced-F7DF1E?style=flat-square&logoColor=black) |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Advanced](https://img.shields.io/badge/●●●●●●●●●●●●○○-Advanced-61DAFB?style=flat-square&logoColor=black) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●●○○○○-Intermediate-4FC08D?style=flat-square) |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Advanced](https://img.shields.io/badge/●●●●●●●●●●●●○○-Advanced-FF2D20?style=flat-square) |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●●○○○○-Intermediate-339933?style=flat-square) |
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●●○○○○-Intermediate-02569B?style=flat-square) |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●○○○○○-Intermediate-7F52FF?style=flat-square) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●○○○○○○-Intermediate-3776AB?style=flat-square) |
-| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![Intermediate](https://img.shields.io/badge/●●●●●●●●●●○○○○-Intermediate-316192?style=flat-square) |
-| ![QA](https://img.shields.io/badge/QA%20%26%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white) | ![Advanced](https://img.shields.io/badge/●●●●●●●●●●●●○○-Advanced-FF6C37?style=flat-square) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-FF4B4B?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-FF4B4B?style=flat-square&logo=typescript&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●●●●●○○%20Advanced-FF4B4B?style=flat-square) |
+| ![React](https://img.shields.io/badge/React-FF8C00?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-FF8C00?style=flat-square&logo=next.js&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●●●●●○○%20Advanced-FF8C00?style=flat-square) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-FFD700?style=flat-square&logo=vue.js&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●●●○○○○%20Intermediate-FFD700?style=flat-square) |
+| ![Laravel](https://img.shields.io/badge/Laravel-32CD32?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-32CD32?style=flat-square&logo=php&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●●●●●○○%20Advanced-32CD32?style=flat-square) |
+| ![Node.js](https://img.shields.io/badge/Node.js-00CED1?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-00CED1?style=flat-square&logo=express&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●●●○○○○%20Intermediate-00CED1?style=flat-square) |
+| ![Flutter](https://img.shields.io/badge/Flutter-1E90FF?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-1E90FF?style=flat-square&logo=dart&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●●●○○○○%20Intermediate-1E90FF?style=flat-square) |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-9370DB?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-9370DB?style=flat-square&logo=openjdk&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●●○○○○○%20Intermediate-9370DB?style=flat-square) |
+| ![Python](https://img.shields.io/badge/Python-DA70D6?style=flat-square&logo=python&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●○○○○○○%20Intermediate-DA70D6?style=flat-square) |
+| ![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF69B4?style=flat-square&logo=postgresql&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●●●○○○○%20Intermediate-FF69B4?style=flat-square) |
+| ![QA](https://img.shields.io/badge/QA%20%26%20Testing-FF4B4B?style=flat-square&logo=postman&logoColor=white) | ![level](https://img.shields.io/badge/●●●●●●●●●●●●○○%20Advanced-FF4B4B?style=flat-square) |
 
 </div>
 
@@ -153,5 +153,5 @@ Fun fact: "I debug with console.log... and I test everything twice"
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF8C00,50:FFD700,75:00FF88,100:00BFFF&height=100&section=footer&animation=fadeIn" width="100%"/>
 </div>
