@@ -90,13 +90,22 @@ Fun fact: "I debug with console.log... and I test everything twice"
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Skills & Proficiency
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Rayhaannnnn&show_icons=true&bg_color=1a1a2e&border_color=6C63FF&icon_color=b0a4ff&title_color=b0a4ff&text_color=c9d1d9&hide_border=false&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayhaannnnn&layout=compact&bg_color=1a1a2e&border_color=6C63FF&title_color=b0a4ff&text_color=c9d1d9&hide_border=false&langs_count=8"/>
+| Skill | Level |
+|:---|:---|
+| **JavaScript / TypeScript** | ████████████░░ Advanced |
+| **React.js / Next.js** | ████████████░░ Advanced |
+| **Vue.js** | ██████████░░░░ Intermediate |
+| **Laravel / PHP** | ████████████░░ Advanced |
+| **Node.js / Express** | ██████████░░░░ Intermediate |
+| **Flutter / Dart** | ██████████░░░░ Intermediate |
+| **Kotlin / Java (Android)** | █████████░░░░░ Intermediate |
+| **Python** | ████████░░░░░░ Intermediate |
+| **MySQL / PostgreSQL** | ██████████░░░░ Intermediate |
+| **QA & Testing** | ████████████░░ Advanced |
 
 </div>
 
